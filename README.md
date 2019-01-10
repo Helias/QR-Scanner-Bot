@@ -15,6 +15,10 @@ In the debian-based linux distro you can use the following command to install th
 ```
 $ sudo apt install libzbar-dev
 ```
+Or try to install manually zbar-py with:
+```
+$ pip3 install zbar-py
+```
 
 ## Configure
 
