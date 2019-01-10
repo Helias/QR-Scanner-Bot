@@ -2,5 +2,4 @@ python-telegram-bot
 qrtools
 qrcode
 pillow
-zbar-py
 zbar
