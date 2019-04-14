@@ -23,7 +23,7 @@ Before run the bot you need to change the **API TOKEN** in the sources, get it f
 Well, now you can run the bot with:
 
 ```
-$ python qr_scanner_bot
+$ python qr_scanner.py
 ```
 
 ## Credits
