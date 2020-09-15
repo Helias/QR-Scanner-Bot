@@ -1,5 +1,7 @@
 # QR-Scanner-Bot
 
+This bot is online at [@qr_scanner_bot](https://t.me/qr_scanner_bot), try it!
+
 ## Requirements
 
 This bot run in python 2.7+ or python3.6+, you can install the required libraries with:
