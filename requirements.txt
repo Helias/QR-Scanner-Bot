@@ -1,5 +1,3 @@
 python-telegram-bot
-qrtools
-qrcode
 pillow
-zbar
+pyzbar
